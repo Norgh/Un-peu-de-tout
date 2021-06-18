@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccddfed4-7f6f-45c1-90e7-5a59c4d68b4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="4136c7e7-d51b-4e7c-a697-e50ac76238db" />
+  <component name="ProjectId" id="1YzBeZe8Qpb3E8xAxXkwSgw6bpw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TP5/Permutation.sage" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccddfed4-7f6f-45c1-90e7-5a59c4d68b4c" name="Default Changelist" comment="" />
+      <created>1583935638565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583935638565</updated>
+      <workItem from="1583935640630" duration="1377000" />
+      <workItem from="1584522761863" duration="6792000" />
+      <workItem from="1584543520586" duration="930000" />
+      <workItem from="1585053627005" duration="7105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583935686593">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="407" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.736@0.0.1366.736" timestamp="1583935686593" />
+    <state x="466" y="126" width="432" height="487" key="FileChooserDialogImpl" timestamp="1585053656757">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="126" width="432" height="487" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1680.1050@0.0.1366.768" timestamp="1585053656757" />
+    <state x="362" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1584543570692">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="362" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1680.1050@0.0.1366.768" timestamp="1584543570692" />
+  </component>
+</project>

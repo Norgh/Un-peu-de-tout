@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {
+      "name": "Luke Skywalker",
+      "age": 23,
+      "gender": "Male",
+      "job": "Jedi Master",
+      "weapon": [
+        "lightsaber",
+        "force"
+      ]
+    },
+    {
+      "name": "Han Solo",
+      "age": 29,
+      "gender": "Male",
+      "job": "Mercenary",
+      "weapon": [
+        "gun"
+      ]
+    },
+    {
+      "name": "Darth Vader",
+      "age": 50,
+      "gender": "Male",
+      "job": "Sith Lord",
+      "weapon": [
+        "lightsaber",
+        "force"
+      ]
+    }
+  ]
+}

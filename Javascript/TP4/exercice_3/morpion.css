@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+    margin: auto;
+    cursor:pointer;
+}
+
+h1{
+    text-align: center;
+    font-size: 4em;
+    font-weight: bold;
+}
+
+h3{
+    color:white;
+    margin-left: 100px;
+}
+
+td {
+    border: solid 1px black;                
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    background-color: white;
+}
+
+body{
+    background-color: black;
+}
+
+img{
+    cursor : pointer;
+    height: 50px;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}

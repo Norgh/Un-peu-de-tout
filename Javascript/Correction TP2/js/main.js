@@ -1,0 +1,2 @@
+tableProducts.createTabProducts();
+tableComponents.createTabComponents();

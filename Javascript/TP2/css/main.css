@@ -1,0 +1,138 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: darkseagreen;
+    /* Margin bottom by footer height */
+    margin: 0 0 40px 0;
+}
+
+#header {
+    margin: 1em;
+    padding: 0.3em 0.5em;
+    border-left: 5px solid #888;
+    border-bottom: 5px solid #888;
+    color: #888;
+}
+
+#header h1 {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, sans-serif;
+    font-size: xx-large;
+}
+
+#header h1 .subtitle {
+    font-size: x-large;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+    /* Set the fixed height of the footer here */
+    height: 30px;
+}
+
+#footer p {
+    padding: 0;
+    margin: 9px 0 0 0;
+    font-size: 12px;
+}
+
+
+        /*Tableau Products*/
+
+#title{
+    text-align: center;
+    text-decoration: underline;
+    color : grey;
+    font-size : 2em;
+    padding-top: 200px;
+    margin-bottom: 100px;
+}
+
+#content {
+    width: 66%;
+    margin-top: 1000px;
+}
+
+
+        /*Tableau Components*/
+
+#title2{
+    text-align: center;
+    text-decoration: underline;
+    font-size : 2em;
+    color : grey;
+    padding-top: 200px;
+    margin-bottom: 100px;
+}
+
+#content2 {
+    width: 66%;
+    margin-top: 600px ;
+    margin-bottom: 100px;
+    position : center;
+}
+
+
+        /*Menu*/
+
+
+#first {
+    background-color:grey;
+}
+
+#first :hover {
+    background-color:grey;
+    color:black;
+}
+
+nav {
+    margin-right: 32%;
+    margin-left: 32%;
+    margin-top: 30px;
+}
+
+nav ul {
+    position: fixed;
+    border-radius: 15px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #C8C8C8;
+    overflow: hidden;
+}
+nav li a {
+    display: block;
+    color: black;
+    padding: 8px 60px;
+    text-decoration: none;
+}
+nav li a:hover {
+    background-color: #A1A1A1;
+    color: white;
+}
+nav li a.active {
+    background-color: #DFDFDF;
+    color: black;
+}
+nav li a.accueil {
+    background-color: #2C2C2C;
+    color: white;
+}
+nav li {
+    float:left;
+    text-align: center;
+}
+
+@media screen and (max-width: 1279px) {
+    nav li {
+        float: none;
+    }
+}
